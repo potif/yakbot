@@ -4,6 +4,5 @@
   "shipit.coffee",
   "ackbar.coffee",
   "keep-alive.coffee",
-  "urban.coffee",
-  "celery-man.coffee"
+  "urban.coffee"
 ]
