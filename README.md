@@ -18,7 +18,7 @@ Yakbot deploys to Heroku. A magic CI server in the sky detects new commits on
 the master branch and sends them over to Heroku. You make changes, they go
 out, so they better be worky!
 
-## Playing with Hubot
+## Playing with Yakbot 
 
 You'll need to install the necessary dependencies for hubot. All of
 those dependencies are provided by [npm][npmjs].
