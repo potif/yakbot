@@ -1,10 +1,23 @@
-# Hubot
+<pre>
+8b        d8    db         88      a8P   88888888ba     ,ad8888ba,  888888888888  
+ Y8,    ,8P    d88b        88    ,88'    88      "8b   d8"'    `"8b      88       
+  Y8,  ,8P    d8'`8b       88  ,88"      88      ,8P  d8'        `8b     88       
+   "8aa8"    d8'  `8b      88,d88'       88aaaaaa8P'  88          88     88       
+    `88'    d8YaaaaY8b     8888"88,      88""""""8b,  88          88     88       
+     88    d8""""""""8b    88P   Y8b     88      `8b  Y8,        ,8P     88       
+     88   d8'        `8b   88     "88,   88      a8P   Y8a.    .a8P      88       
+     88  d8'          `8b  88       Y8b  88888888P"     `"Y8888Y"'       88
+</pre>
 
-This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
+# Yakbot 
 
-This version is designed to be deployed on [Heroku][heroku].
+This POTIF's version of GitHub's Campfire bot, hubot. Yakbot hangs out on
+HipChat and does some useful and many not-extremely useful things.
 
-[heroku]: http://www.heroku.com
+Yakbot deploys to Heroku. Right now slloyd is the only one who can do that.
+If you make Yakbot commits, ask slloyd to deploy them for you. Once this happens
+one or two times, slloyd will get annoyed and set up a CI server to do it
+automagically when you commit to GitHub.
 
 ## Playing with Hubot
 
