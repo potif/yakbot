@@ -14,10 +14,9 @@
 This POTIF's version of GitHub's Campfire bot, hubot. Yakbot hangs out on
 HipChat and does some useful and many not-extremely useful things.
 
-Yakbot deploys to Heroku. Right now slloyd is the only one who can do that.
-If you make Yakbot commits, ask slloyd to deploy them for you. Once this happens
-one or two times, slloyd will get annoyed and set up a CI server to do it
-automagically when you commit to GitHub.
+Yakbot deploys to Heroku. A magic CI server in the sky detects new commits on
+the master branch and sends them over to Heroku. You make changes, they go
+out, so they better be worky!
 
 ## Playing with Hubot
 
