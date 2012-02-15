@@ -4,5 +4,6 @@
   "shipit.coffee",
   "ackbar.coffee",
   "keep-alive.coffee",
-  "urban.coffee"
+  "urban.coffee",
+  "github-pulls.coffee"
 ]
