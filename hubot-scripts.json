@@ -6,5 +6,6 @@
   "keep-alive.coffee",
   "urban.coffee",
   "github-pulls.coffee",
-  "github-issues.coffee"
+  "github-issues.coffee",
+  "github-credentials.coffee"
 ]
